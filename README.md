@@ -96,8 +96,8 @@ This **Looker Studio** dashboard analyzes website traffic from **Google Analytic
 - **Looker Studio** for visualization tools  
 
 ---
+## 🌐 Connect with Me
+- **LinkedIn:** [Debashish Kumar Bora](https://www.linkedin.com/in/debashishkumarbora)
+- **GitHub:** [DebashishKumarBora](https://github.com/DebashishKumarBora)
 
-## 🌐 Connect  
-**LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)  
-**GitHub**: [@YourHandle](https://github.com/yourprofile)  
 
