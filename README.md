@@ -16,7 +16,6 @@ This **Looker Studio** dashboard analyzes website traffic from **Google Analytic
 - 30.2% engagement rate  
 
 ### **Top Performers**  
-- **Campaign**: "SOUTHALL TRAVEL - Exact" (9,735 sessions, 34% bounce rate)  
 - **Country**: United Kingdom (137,214 sessions)  
 - **City**: London (32,546 sessions, 2,445 key events)  
 - **Landing Page**: Contact page (427 conversions from campaign traffic)  
@@ -72,10 +71,9 @@ This **Looker Studio** dashboard analyzes website traffic from **Google Analytic
 ---
 
 ## 🚀 Recommended Actions  
-1. **Boost Budget** for "SOUTHALL TRAVEL - Exact" campaign (+20%)  
-2. **Redesign Homepage** to match contact page's conversion efficiency  
-3. **Launch Geo-Targeted Ads** for Nigerian/Lagosian audiences  
-4. **Create Direct-Traffic Landing Pages** to reduce bounce rate  
+1. **Redesign Homepage** to match contact page's conversion efficiency  
+2. **Launch Geo-Targeted Ads** for Nigerian/Lagosian audiences  
+3. **Create Direct-Traffic Landing Pages** to reduce bounce rate  
 
 ---
 
